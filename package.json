@@ -2,7 +2,7 @@
   "name": "rmapi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pshegde123.github.io/ricandmortyapi",
+  "homepage": "https://pshegde123.github.io/reactapp_rickandmortyapi",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
